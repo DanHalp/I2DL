@@ -1,4 +1,4 @@
-# I2DL
+# The Technical University of Munich: Introduction to Deep Learning (IN2346)
 Articles and summaries I have written as a tutor for I2DL (IN2346)
 
 1. Lecture notes, covering the entire lecture material and more.
